@@ -1,6 +1,6 @@
-# myapp
+# Klinik APP
 
-A new Flutter project.
+Klinik app project mobile programming Semester 4
 
 ## Getting Started
 
